@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"A setback is a setup for a comeback"
 Use the left arrow to go back!
